@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - :car: 打工人参上！
 ----
-![GodDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodDai&show_icons=true&hide=stars&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodDai&layout=compact&hide=html)
+![GodDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWDai&show_icons=true&hide=stars&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RWDai&layout=compact&hide=html)
