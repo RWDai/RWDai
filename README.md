@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 - :car: 打工人参上！
 ----
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31003%26project%3D%26in=0)](https://codetime.dev)
+
+
 ![GodDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWDai&show_icons=true&hide=stars&theme=cobalt&bg_color=50,4643DF,0B0A47)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RWDai&layout=compact&hide=scss,css,javascript,html)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RWDai&layout=compact&hide=scss,css,html)
