@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31003)](https://codetime.dev)
 
 
-![GodDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWDai&show_icons=true&hide=stars&theme=cobalt&bg_color=50,4643DF,0B0A47)
+![GodDai's GitHub stats](https://raw.githubusercontent.com/RWDai/copy-from-jstrieb-github-stats/refs/heads/master/generated/overview.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RWDai&layout=compact&hide=scss,css,html)
+![Top Langs](https://raw.githubusercontent.com/RWDai/copy-from-jstrieb-github-stats/refs/heads/master/generated/languages.svg)
