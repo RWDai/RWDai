@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 
 
 ![GodDai's GitHub stats](https://raw.githubusercontent.com/RWDai/copy-from-jstrieb-github-stats/refs/heads/master/generated/overview.svg)
-
-
 ![Top Langs](https://raw.githubusercontent.com/RWDai/copy-from-jstrieb-github-stats/refs/heads/master/generated/languages.svg)
