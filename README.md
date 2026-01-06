@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :car: 打工人参上！
+
+✨ [下载vsix离线包](https://rwdai.github.io/VSIX_download_github_pages/)
 ----
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31003)](https://codetime.dev)
 
