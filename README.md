@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :car: 打工人参上！
+- :car: working！
+- 🌱 I’m currently learning ai agent.
+
 
 ✨ [米家极客版昼夜节律曲线生成器](https://rwdai.github.io/mi-circadian-cct/)
 
